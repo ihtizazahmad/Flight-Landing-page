@@ -274,7 +274,7 @@ export class SpecialOffersComponent {
       from: 'Piura (PIU)',
       to: 'Lima (LIM)',
       price: '$291.87',
-      featured: true,
+      featured: false,
       image: 'https://images.unsplash.com/photo-1555952517-2e8e729e0b44?auto=format&fit=crop&w=500&q=80',
       fallbacks: ['https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=500&q=80']
     },
